@@ -2,8 +2,10 @@
 2、注册微信公众号平台，进入测试（个人开发者无法发送模版消息，只能借助测试号）
 https://mp.weixin.qq.com/debug/cgi-bin/sandboxinfo?action=showinfo&t=sandbox/index
 3、新增模版消息配置，内容可参考下面，{{}}里面的变量需要在脚本里声明赋值
-4、天气使用的高德天气API
+4、天气使用的高德天气API，自己注册一下替换掉我的Gaode.php里面的key
+https://console.amap.com/dev/key/app
 5、一句情话使用的网上随便找的api
+6、定时发送需要使用服务器，配置crontab定时任务
 
 模版消息配置内容:
 
