@@ -4,7 +4,7 @@ require_once("./Curl.php");
 
 class Levi_Gaode
 {
-    const KEY = 'tianqi_15221373275';
+    const KEY = 'tq_15221373275';
 
     const URL_LIST = array(
         'getWeather' => 'https://restapi.amap.com/v3/weather/weatherInfo'
