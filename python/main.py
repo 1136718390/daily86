@@ -70,14 +70,14 @@ def getWeek():
 
 if __name__ == '__main__':
     # 微信公众号的appId和appSecret
-    appId = 'wxc4b2963cdc386b85'
-    appSecret = '648c4639ee0eaa316229497b74c25be4'
+    appId = 'wx44d15bded408cdba'
+    appSecret = 'db58eda5becd7ce1fe32d37ac038c457'
     # 要发送人的openId列表
-    openIdList = ['ojKlj6q-t9TNkIBh659v0Tp_URI4']
+    openIdList = ['o1YCR6vW8PQpLkH50_Ov5e3AApO0']
     # 模版Id
-    templateId = '7JJFCS-TYlDl-aCOoIrttO9Iuccyk5alIkb8JhQuL0s'
+    templateId = 'SzQZvdMKr4j_nfGLmq8wzm7vJBvXmLkYNmI4jAdGcGc'
     # 高德天气API key
-    gaoDeKey = '244e75e78d7110304a626f6b1c3e5f03'
+    gaoDeKey = 'tq_15221373275'
     # 所在地点abCode（高德后台可以获取 https://a.amap.com/lbs/static/amap_3dmap_lite/AMap_adcode_citycode.zip）
     abCode = '110105'
     # 最近一次生日的日期
